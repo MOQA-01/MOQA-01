@@ -20,15 +20,15 @@
 <table>
   <tr>
     <td align="center" width="33%">
-      <h3>👁️ Computer Vision</h3>
+      <h3>Computer Vision</h3>
       <p>3D CNNs · Eye-tracking · Real-time detection · Spatiotemporal analysis · Accessible interfaces</p>
     </td>
     <td align="center" width="33%">
-      <h3>🤖 Robotics & Autonomy</h3>
+      <h3>Robotics & Autonomy</h3>
       <p>Humanoid robots · Drone navigation · Kinematic models · MAVLink · ROS · CV+NLP fusion</p>
     </td>
     <td align="center" width="33%">
-      <h3>🔬 ML Research</h3>
+      <h3>ML Research</h3>
       <p>IoT anomaly detection · Microservices ML · Edge inference · On-device models · Real-time pipelines</p>
     </td>
   </tr>
