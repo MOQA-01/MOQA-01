@@ -7,7 +7,6 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-qalandar-shah-quazi-b59428259)
-[![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/mohammeshahqu)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0008-7930-9065)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mohd_qalandar)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/MOQA_01)
@@ -16,29 +15,7 @@
 
 ---
 
-## ⚡ Who I Am
-
-```python
-moqa = {
-    "name"       : "Mohammed Qalandar Shah Quazi",
-    "alias"      : "MOQA",
-    "role"       : "ML Engineer | Designer | Researcher",
-    "education"  : [
-        "B.Tech AI & ML — Presidency University, Bangalore (2026)",
-        "MS Machine Learning Engineering — Drexel University, Philadelphia (2027)"
-    ],
-    "currently"  : "ML Intern @ MultiD | Robotics Lifecycle & AI Integration",
-    "building"   : "On-device ML systems | Autonomous robots | CV pipelines",
-    "won"        : ["1st Place — Kodikon 3.0 National Hackathon",
-                    "1st Place — IEEE Future Forge National Hackathon"],
-    "published"  : "Lead Author — ICRTET 2026 International Conference",
-    "moving_to"  : "Philadelphia, PA — September 2026",
-}
-```
-
----
-
-## 🧠 What I Build
+##  What I Build
 
 <table>
   <tr>
@@ -59,7 +36,7 @@ moqa = {
 
 ---
 
-## 🏆 Highlights
+##  Highlights
 
 | Achievement | Details |
 |-------------|---------|
@@ -72,7 +49,7 @@ moqa = {
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 > Click any project to explore the full repo.
 
